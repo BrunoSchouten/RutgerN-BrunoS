@@ -7,7 +7,7 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://github.com/BrunoSchouten/RutgerN-BrunoS.git # Change this URL to your GitHub repository #test3
+  github: https://github.com/BrunoSchouten/RutgerN-BrunoS.git # Change this URL to your GitHub repository #test4
 
 extends:
   - plugins.yml
